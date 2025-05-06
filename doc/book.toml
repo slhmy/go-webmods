@@ -1,0 +1,5 @@
+[book]
+authors = ["slhmy"]
+language = "en"
+src = "src"
+title = "Golang Web Modules"
